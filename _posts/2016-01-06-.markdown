@@ -1,0 +1,23 @@
+---
+published: true
+title: Adabas SOA Gateway Simplifies Access for Java and .NET Applications
+layout: post
+---
+Adabas SOA Gateway exposes data managed in Adabas in a simple, open and logical manner to any environment that consumes Web services, such as Java, .NET and AJAX. That means developers using the latest tools and frameworks can leverage Adabas data. Business users can readily access the information they need.
+Adabas SOA Gateway enables you to:
+Expand access to critical data—easily
+Reduce development time and cost by leveraging existing data structures
+Integrate data easily into business process flows
+Bring valuable Adabas assets into an SOA
+Meet corporate goals faster
+Adabas SOA Gateway runs entirely on the system where your data resides so there is no client footprint. The Adabas DBA generates the data the user can access in the form of WSDL files callable from any language that consumes Web services.
+The Service Oriented Architecture gateway allows view of Adabas files published using WSDL. It enables developers to read and update a database using SOAP messages. Any technology that can consume a Web service can access and update Adabas data, including programs written in Java, Windows programs using .NET, InfoPath, XML-SPY and more
+Key features include:
+A high-performance XML processing engine that maps XML data to Adabas and back again, reducing resource consumption
+Standards-based Web-services interfaces, including WSDL, SOAP, HTTP, XML and UDDI
+A discovery process that makes it easy and efficient to wrap data structures into Web services that can be consumed by services using SOAP messages
+A standard Eclipse plug-in that simplifies software maintenance and monitoring
+Java, .NET and object-oriented programmers can access and update Adabas data with no knowledge of Adabas, increasing productivity and reducing costs. Also, the server-side architecture ensures the shortest path to the data and fast response times.
+By using Adabas SOA Gateway, you can assure access to critical data to speed up business processes and decision-making. Standard interfaces and seamless connectivity to Java, .NET or environments mean you can use it to create new applications.
+SOA cuts maintenance costs, because no client footprint is required. Additionally, direct access to Adabas information from the desktop eliminates the need to duplicate data or move data to a data warehouse, saving you time and money.
+from http://www.goodarticle.info/Article/Technology/Programming/201510/105520.html
